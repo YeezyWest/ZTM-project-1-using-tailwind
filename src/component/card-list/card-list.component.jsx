@@ -16,7 +16,5 @@ const CardList = ({ monsters }) => {
     );
   };
 
-
-  
   export default CardList;
   
