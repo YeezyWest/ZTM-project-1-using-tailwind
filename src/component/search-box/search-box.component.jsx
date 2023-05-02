@@ -8,5 +8,4 @@ const SearchBox = ({className, placeholder, onChangeHandler}) => (
         </div>
       )
 
-
 export default SearchBox
